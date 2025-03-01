@@ -11,7 +11,9 @@ Emotion-Driven Visuals is an AI-powered project that creates **artistic visuals 
 ✅ **Emotion-Based Art Generation** – Generates visuals inspired by emotions\
 ✅ **AI-Powered Text Creation** – Produces poetic or descriptive phrases\
 ✅ **Deep Learning Models** – Uses ML algorithms to process emotions\
-✅ **Customizable Output** – Users can modify or fine-tune results
+✅ **Customizable Output** – Users can modify or fine-tune results\
+✅ **Downloadable Images** – Users can save generated images\
+✅ **Batch Processing Support** – Generate and download multiple images at once
 
 ### **🔧 Technologies Used**
 
@@ -20,7 +22,7 @@ Emotion-Driven Visuals is an AI-powered project that creates **artistic visuals 
 - **OpenCV** (for image processing)
 - **Hugging Face Transformers** (for NLP-based emotion detection)
 - **Matplotlib / Seaborn** (for visualizations)
-- Gradio (for web-based interactive deployment)
+- **Gradio** (for web-based interactive deployment)
 
 ### **🚀 Getting Started**
 
@@ -55,26 +57,26 @@ The project leverages publicly available datasets for emotion classification, su
 #### **Input Emotion: "Joy"**
 
 🖌 **Generated Artwork:**\
-*(Insert image example here)*
+![Positive](https://github.com/user-attachments/assets/312709f7-f7bf-4bac-88c7-555268c7cfd0)
+
 
 ✍ **Generated Text:**\
-*"Happiness dances like golden rays on a calm summer morning..."*
+*"Shadows consume the desolate, crumbling cityscape."*
 
 #### **Input Emotion: "Sadness"**
 
 🖌 **Generated Artwork:**\
-![image](https://github.com/user-attachments/assets/e7114fe1-3d41-49d5-bcaf-67b449ba7043)
+![Negative](https://github.com/user-attachments/assets/8be806b4-e3e9-47f7-ab1e-3860c3c49182)
 
 
 
 ✍ **Generated Text:**\
-Gentle waves whisper peace along a sunlit shore
+*"Gentle waves whisper peace along a sunlit shore"*
 
 ### **🔮 Future Enhancements**
 
 🚀 Improve artwork generation using **GANs**\
 🚀 Fine-tune text creation with **GPT-based models**\
-🚀 Deploy as an **interactive web app** (Flask/Streamlit)
-
-
+🚀 Deploy as an **interactive web app** (Flask/Streamlit)\
+🚀 **Save Session History** – Users can revisit and re-download past images
 
