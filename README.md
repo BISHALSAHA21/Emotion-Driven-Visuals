@@ -20,6 +20,7 @@ Emotion-Driven Visuals is an AI-powered project that creates **artistic visuals 
 - **OpenCV** (for image processing)
 - **Hugging Face Transformers** (for NLP-based emotion detection)
 - **Matplotlib / Seaborn** (for visualizations)
+- Gradio (for web-based interactive deployment)
 
 ### **🚀 Getting Started**
 
