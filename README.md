@@ -61,7 +61,10 @@ The project leverages publicly available datasets for emotion classification, su
 
 
 ✍ **Generated Text:**\
-*"Shadows consume the desolate, crumbling cityscape."*
+*"Gentle waves whisper peace along a sunlit shore"*
+
+
+
 
 #### **Input Emotion: "Sadness"**
 
@@ -71,7 +74,7 @@ The project leverages publicly available datasets for emotion classification, su
 
 
 ✍ **Generated Text:**\
-*"Gentle waves whisper peace along a sunlit shore"*
+*"Shadows consume the desolate, crumbling cityscape."*
 
 ### **🔮 Future Enhancements**
 
