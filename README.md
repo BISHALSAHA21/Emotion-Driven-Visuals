@@ -65,8 +65,9 @@ The project leverages publicly available datasets for emotion classification, su
 ![image](https://github.com/user-attachments/assets/e7114fe1-3d41-49d5-bcaf-67b449ba7043)
 
 
+
 ✍ **Generated Text:**\
-*"Raindrops whisper tales of lost memories and silent goodbyes..."*
+Gentle waves whisper peace along a sunlit shore
 
 ### **🔮 Future Enhancements**
 
