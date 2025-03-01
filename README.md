@@ -62,7 +62,8 @@ The project leverages publicly available datasets for emotion classification, su
 #### **Input Emotion: "Sadness"**
 
 🖌 **Generated Artwork:**\
-*(Insert image example here)*
+![image](https://github.com/user-attachments/assets/e7114fe1-3d41-49d5-bcaf-67b449ba7043)
+
 
 ✍ **Generated Text:**\
 *"Raindrops whisper tales of lost memories and silent goodbyes..."*
